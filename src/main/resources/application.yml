@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    ssm:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://sh-cynosdbmysql-grp-b3df6uyk.sql.tencentcdb.com:27446/websocket
+      # ?serverTimezone=Asia/Shanghai
+      # &useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+      username: root
+      password: Ping192168.
+
+logging:
+  config: classpath:log4j2.xml

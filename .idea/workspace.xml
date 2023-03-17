@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c19a2ce6-7976-4224-a7f9-3c70b59786f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/config/MyDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/config/MyDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/controller/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/controller/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/mapper/LoginMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/mapper/LoginMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/po/MSG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/po/MSG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/po/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/po/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/po/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/po/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/po/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/po/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/service/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/service/LoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/service/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/service/WebSocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/boot/spring/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/boot/spring/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/LoginMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/LoginMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/chatroom.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/chatroom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staff.sql" beforeDir="false" afterPath="$PROJECT_DIR$/staff.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/封面.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/M/Maven/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\M\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2N6FY5Yn5maCFi5p3nzzODKenNZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ME\IdeaProjects\Spring-websocket\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="boot.spring.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c19a2ce6-7976-4224-a7f9-3c70b59786f1" name="Changes" comment="" />
+      <created>1678976670881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678976670881</updated>
+      <workItem from="1678976672608" duration="265000" />
+      <workItem from="1678977265374" duration="958000" />
+      <workItem from="1678979001508" duration="117000" />
+      <workItem from="1678979233203" duration="541000" />
+      <workItem from="1678979799000" duration="9000" />
+      <workItem from="1678979823928" duration="79000" />
+      <workItem from="1678979999856" duration="12000" />
+      <workItem from="1678980031682" duration="4368000" />
+      <workItem from="1678984523359" duration="1066000" />
+      <workItem from="1678986076286" duration="2577000" />
+      <workItem from="1679044272710" duration="6840000" />
+      <workItem from="1679053120215" duration="524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
